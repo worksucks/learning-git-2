@@ -1,0 +1,16 @@
+body{
+	margin:40px;
+	font-family:'Rubik', sans-serif;
+}
+.container {
+	margin:0;
+	max-width:700px;
+	width:100%;
+	margin:0 auto;
+	background-color:#fff;
+	color:#ccc;
+}
+
+h1, h2 {
+	font-family:'Montserrat', sans-serif;
+}
